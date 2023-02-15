@@ -1,0 +1,10 @@
+.Banner {
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgb(2, 2, 187, 0.4), rgb(0, 0, 139, 0.4)),
+    url("../assets/banner.jpg");
+  background-size: cover;
+}
